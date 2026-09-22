@@ -106,12 +106,11 @@ SQL analysis includes:
 ### Power BI Dashboard
 ### Sales Overview
 
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](images/detailed_analysis.png)
 
 ### Detailed Analysis
 
-![Detailed Analysis](images/detailed_analysis.png)
-
+![Detailed Analysis](images/sales_overview.png)
 
 The Power BI report contains two pages:
 
