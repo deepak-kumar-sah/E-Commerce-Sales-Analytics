@@ -104,6 +104,14 @@ SQL analysis includes:
 * Customer segmentation
 
 ### Power BI Dashboard
+### Sales Overview
+
+![Sales Overview](images/sales_overview.png)
+
+### Detailed Analysis
+
+![Detailed Analysis](images/detailed_analysis.png)
+
 
 The Power BI report contains two pages:
 
