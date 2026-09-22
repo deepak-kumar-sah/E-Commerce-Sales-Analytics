@@ -106,7 +106,7 @@ SQL analysis includes:
 ### Power BI Dashboard
 ### Sales Overview
 
-![Sales Overview](images/detailed_analysis.png)
+![Sales Overview](images/dashboard.png)
 
 ### Detailed Analysis
 
